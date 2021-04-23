@@ -13,3 +13,14 @@
   }, 10)
 */
 
+const myPromise = new Promise((resolve, reject) => {
+  resolve('hello')
+})
+
+myPromise
+  .then(res => `${res} lagou`)
+  .then(res => console.log(`${res} I ♥ U`))
+
+
+
+
