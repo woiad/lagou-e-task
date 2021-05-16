@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "yo": "@4.1.0",
+    "yeoman-generator": "^5.2.0"
+  },
+  "name": "generator-vue-template",
+  "version": "1.0.0",
+  "description": "generator vue template",
+  "main": "index.js",
+  "author": "woiad",
+  "license": "MIT"
+}
