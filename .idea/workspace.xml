@@ -1,6 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13aa2ab1-335d-4a12-aff8-98bca666bf1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.prod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1rQaqBnAa7JG9Ndu8r6VFGhGcXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/project/beer-pess-frontend-pc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my-study\lagoufed-e-task\part2\fed-e-task-02-01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my-study\lagoufed-e-task\part2\fed-e-task-02-01\code\pages-boilerplate\.github" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13aa2ab1-335d-4a12-aff8-98bca666bf1e" name="Default Changelist" comment="" />
+      <created>1618910956419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618910956419</updated>
+      <workItem from="1618910958071" duration="1354000" />
+      <workItem from="1618932335687" duration="4048000" />
+      <workItem from="1618965853390" duration="10607000" />
+      <workItem from="1619051894776" duration="25177000" />
+      <workItem from="1619789518697" duration="9460000" />
+      <workItem from="1620130055914" duration="1545000" />
+      <workItem from="1620133632010" duration="1464000" />
+      <workItem from="1620185331039" duration="7713000" />
+      <workItem from="1620390849611" duration="11000" />
+      <workItem from="1620918762351" duration="4479000" />
+      <workItem from="1620957690566" duration="593000" />
+      <workItem from="1620961374318" duration="592000" />
+      <workItem from="1620976529526" duration="19620000" />
+      <workItem from="1621055556011" duration="12249000" />
+      <workItem from="1621068981853" duration="28127000" />
+      <workItem from="1621176659091" duration="38000" />
+      <workItem from="1623501681570" duration="449000" />
+      <workItem from="1623561448106" duration="38608000" />
+      <workItem from="1624006968962" duration="73000" />
+    </task>
+    <task id="LOCAL-00001" summary="part1模块二作业完成">
+      <created>1620312163776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620312163776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="part2;模块1作业完成">
+      <created>1621160366440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621160366440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="part2;模块1 generator-vue-template README.md 修改">
+      <created>1621160960767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621160960767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part1模块二作业完成" />
+    <MESSAGE value="part2;模块1作业完成" />
+    <MESSAGE value="part2;模块1 generator-vue-template README.md 修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="part2;模块1 generator-vue-template README.md 修改" />
   </component>
 </project>
