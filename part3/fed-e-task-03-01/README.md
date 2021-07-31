@@ -75,3 +75,11 @@ diff 算法在执行的过程中会记住老节点的开始索引、老节点的
 
 <img src="images/Ciqc1F7zUZ-AWP5NAAN0Z_t_hDY449.png" alt="Ciqc1F7zUZ-AWP5NAAN0Z_t_hDY449" style="zoom:50%;" />
 
+### 学习笔记链接
+> https://www.yuque.com/docs/share/ec75b48c-c1e5-436e-b482-c004627a1b56?# 《Virtual DOM 和 diff 算法》
+> 
+>https://www.yuque.com/docs/share/1d5556a2-8bc7-4913-9676-e9cc34b28b16?# 《手写 mini-vue 实现》
+> 
+> https://www.yuque.com/docs/share/2ba54ad2-2981-4bb3-8328-b58cd7ab376f?# 《发布/订阅模式和观察者模式》
+> 
+> https://www.yuque.com/docs/share/3c4ec44a-50a5-4aea-bf5f-0910c9994727?# 《Vue-Router 实现原理》
