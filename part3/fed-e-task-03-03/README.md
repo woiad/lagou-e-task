@@ -28,7 +28,19 @@
 [**练习三：自动化部署项目到服务器**](https://gitee.com/lagoufed/fed-e-questions/tree/master/part3/%E7%AC%94%E8%AE%B03-%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
 
+```js
+realworld 项目 github 仓库地址：https://github.com/woiad/readworld-nuxt
 
+realworld 项目访问地址：http://106.75.34.21:3000/
+
+笔记地址：
+
+  1.https://www.yuque.com/docs/share/3c368c9b-1018-450c-8c8a-fde71a9e5c1d?# 《服务端渲染》
+
+  2.https://www.yuque.com/docs/share/c05614a5-a080-4470-adc6-dc756fa9e0cd?# 《vuex 状态管理》
+
+  3.https://www.yuque.com/docs/share/cad07af8-38fe-4bcf-b6da-af4672c4e635?# 《Nuxt.js》
+```
 
 
 
