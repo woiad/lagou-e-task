@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13aa2ab1-335d-4a12-aff8-98bca666bf1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/part2/fed-e-task-02-02/code/vue-app-base/webpack.prod.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +12,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -29,31 +24,88 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1641121018" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/part3/fed-e-task-03-04/gridsome-blog" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1rQaqBnAa7JG9Ndu8r6VFGhGcXf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/project/beer-pess-frontend-pc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part3/fed-e-task-03-04/gridsome-blog/static" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-04\gridsome-blog\static" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-04\gridsome-blog\src\utils" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-01\images" />
       <recent name="E:\my-study\lagoufed-e-task\part2\fed-e-task-02-01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\my-study\lagoufed-e-task\part2\fed-e-task-02-01\code\pages-boilerplate\.github" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-04\gridsome-blog\src\pages" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-04\gridsome-blog\src\pages\home" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-01\snabbdom\src\js" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-01\snabbdom\src" />
+      <recent name="E:\my-study\lagoufed-e-task\part3\fed-e-task-03-01\snabbdom" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/part3/fed-e-task-03-01/snabbdom/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/part3/fed-e-task-03-01/my-vue-router/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +134,16 @@
       <workItem from="1623501681570" duration="449000" />
       <workItem from="1623561448106" duration="38608000" />
       <workItem from="1624006968962" duration="73000" />
+      <workItem from="1625667917619" duration="877000" />
+      <workItem from="1625725655537" duration="243000" />
+      <workItem from="1626702609374" duration="14582000" />
+      <workItem from="1626831619549" duration="4647000" />
+      <workItem from="1626914380571" duration="8198000" />
+      <workItem from="1627185106338" duration="12342000" />
+      <workItem from="1627444099830" duration="4394000" />
+      <workItem from="1629892212484" duration="18891000" />
+      <workItem from="1633353834379" duration="2477000" />
+      <workItem from="1641112331920" duration="26124000" />
     </task>
     <task id="LOCAL-00001" summary="part1模块二作业完成">
       <created>1620312163776</created>
@@ -104,7 +166,42 @@
       <option name="project" value="LOCAL" />
       <updated>1621160960767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="模块二part2作业提交">
+      <created>1625668198947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625668198947</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat:part3模块一作业提交">
+      <created>1627723519762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627723519762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat:part3模块一补加笔记链接">
+      <created>1627724058362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627724058362</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat:part3模块2作业提交">
+      <created>1630237897593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630237897593</updated>
+    </task>
+    <task id="LOCAL-00008" summary="part3-模块3作业完成">
+      <created>1633354162615</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633354162615</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +223,11 @@
     <MESSAGE value="part1模块二作业完成" />
     <MESSAGE value="part2;模块1作业完成" />
     <MESSAGE value="part2;模块1 generator-vue-template README.md 修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="part2;模块1 generator-vue-template README.md 修改" />
+    <MESSAGE value="模块二part2作业提交" />
+    <MESSAGE value="feat:part3模块一作业提交" />
+    <MESSAGE value="feat:part3模块一补加笔记链接" />
+    <MESSAGE value="feat:part3模块2作业提交" />
+    <MESSAGE value="part3-模块3作业完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="part3-模块3作业完成" />
   </component>
 </project>
